@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Vivaleisure_parking/static/css/main.e6c13ad2.css",
-    "main.js": "/Vivaleisure_parking/static/js/main.b83d4eeb.js",
+    "main.js": "/Vivaleisure_parking/static/js/main.806079eb.js",
     "static/js/453.67109cd4.chunk.js": "/Vivaleisure_parking/static/js/453.67109cd4.chunk.js",
     "index.html": "/Vivaleisure_parking/index.html",
     "main.e6c13ad2.css.map": "/Vivaleisure_parking/static/css/main.e6c13ad2.css.map",
-    "main.b83d4eeb.js.map": "/Vivaleisure_parking/static/js/main.b83d4eeb.js.map",
+    "main.806079eb.js.map": "/Vivaleisure_parking/static/js/main.806079eb.js.map",
     "453.67109cd4.chunk.js.map": "/Vivaleisure_parking/static/js/453.67109cd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b83d4eeb.js"
+    "static/js/main.806079eb.js"
   ]
 }
